@@ -15,7 +15,7 @@
       <td align="right"><strong>Group</strong>: B (S4)</td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><strong>Delivered To</strong>: Prof. Basheer Abdel Fatah</td>
+      <td colspan="2" align="center"><strong>Delivered To</strong>: DR. Cherry Ahmed</td>
     </tr>
   </table>
 </div>
@@ -30,14 +30,13 @@ Data Structures Course (Spring 2024)
 
 ### Instructions
 
-1. Students will form teams of 2 students (from the same lab group).
-2. The deadline for submission is Monday, May 30th at 11:55 pm.
-3. Submission will be on Blackboard.
-4. No late submissions are allowed.
-5. No submission through e-mails.
-6. Please follow the Submission Notes found below.
-7. In case of cheating, you will receive a negative grade whether you give the code to someone, take the code from someone/internet, or even send it to someone for any reason.
-8. You have to write clean code and follow a good coding style, including choosing meaningful variable names.
+1. The deadline for submission is Monday, May 30th at 11:55 pm.
+2. Submission will be on Blackboard.
+3. No late submissions are allowed.
+4. No submission through e-mails.
+5. Please follow the Submission Notes found below.
+6. In case of cheating, you will receive a negative grade whether you give the code to someone, take the code from someone/internet, or even send it to someone for any reason.
+7. You have to write clean code and follow a good coding style, including choosing meaningful variable names.
 
 ### Objective
 
@@ -172,4 +171,3 @@ In this assignment, you will implement Dijkstra’s shortest path algorithm on a
 - **WeightedGraph::dijkstra**: 21 points
 
 **Total**: 90 points
-```

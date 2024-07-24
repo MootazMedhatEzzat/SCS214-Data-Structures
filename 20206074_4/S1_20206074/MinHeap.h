@@ -18,7 +18,7 @@ class MinHeap
     public:
         Node extractMin();              //returns & removes the node with minimum cost
         void buildMinHeap(Node[], int); //allocates array then builds a min-heap from an array of struct Node with the given size
-        void minHeapify(int, int);      //restores the min-heap property for the ìheapî array using the given index and size n
+        void minHeapify(int, int);      //restores the min-heap property for the ‚Äúheap‚Äù array using the given index and size n
         void swapTwoNodes(int, int);    //swap two nodes
         void decreaseKey(char, int);    //decreases the node that has the given label to newCost
         int parent(int);                //returns the index of the parent of i
@@ -27,7 +27,7 @@ class MinHeap
         int getSize();                  //returns size of the heap
         int getLabelIndex(char);        //returns index of label
         bool inHeap(char);              //checks if the node with the given label is in the heap
-        bool inEmpty();
+        bool isEmpty();                 //checks if the heap is empty
 };
 Node MinHeap::extractMin()
 {
@@ -160,5 +160,9 @@ bool MinHeap::inHeap(char label)
         return false;
     }
     return true;
+}
+bool MinHeap::isEmpty()
+{
+    return currSize == 0;
 }
 #endif // MINHEAP_H_INCLUDED

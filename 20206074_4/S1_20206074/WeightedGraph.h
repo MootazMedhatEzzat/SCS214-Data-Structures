@@ -106,36 +106,40 @@ void WeightedGraph::dijkstra(char startVertex, char prev[], Node distances[])
     int* neighborsArray;
     bool spt[nVertices] = { false };
     Node node;
+
     for (int i = 0; i < nVertices; i++)
     {
         distances[i].label = getIndexVertex(i);
         distances[i].cost = INT_MAX;
+        prev[i] = '\0'; // Initialize prev array with null character
     }
+
+    int startIdx = getVertexIndex(startVertex);
+    distances[startIdx].cost = 0;
+    prev[startIdx] = startVertex; // Set the prev for the start vertex to itself
     obj.buildMinHeap(distances, nVertices);
-    obj.decreaseKey(startVertex, 0);
-    for(int i = 0; i < nVertices; i++)
+
+    while (!obj.isEmpty())
     {
         node = obj.extractMin();
-        spt[getVertexIndex(node.label)] = true;
-        numOfNeighbors = numNeighbors(getVertexIndex(node.label));
-        neighborsArray = returnNeighbors(getVertexIndex(node.label));
-        for(int i = 0; i < numOfNeighbors; i++)
+        int u = getVertexIndex(node.label);
+        spt[u] = true;
+
+        numOfNeighbors = numNeighbors(u);
+        neighborsArray = returnNeighbors(u);
+
+        for (int i = 0; i < numOfNeighbors; i++)
         {
-            obj.decreaseKey(getIndexVertex(neighborsArray[i]), (getWeight(node.label, getIndexVertex(neighborsArray[i])) + node.cost));
-        }
-        distances[getVertexIndex(node.label)].label = node.label;
-        distances[getVertexIndex(node.label)].cost = node.cost;
-        for (int v = 0; v < nVertices; v++)
-        {
-            if(node.label == startVertex)
+            int v = neighborsArray[i];
+            if (!spt[v] && g[u][v] && distances[u].cost != INT_MAX && distances[u].cost + g[u][v] < distances[v].cost)
             {
+                distances[v].cost = distances[u].cost + g[u][v];
                 prev[v] = node.label;
-            }
-            else if (spt[v] != true && g[getVertexIndex(node.label)][v] && distances[getVertexIndex(node.label)].cost + g[getVertexIndex(node.label)][v] < distances[v].cost)
-            {
-                prev[v] = node.label;
+                obj.decreaseKey(getIndexVertex(v), distances[v].cost);
             }
         }
+        distances[u].label = node.label;
+        distances[u].cost = node.cost;
     }
 }
 #endif // WEIGHTEDGRAPH_H_INCLUDED

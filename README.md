@@ -12,10 +12,10 @@
     </tr>
     <tr>
       <td align="left"><strong>Program</strong>: Software Engineering</td>
-      <td align="right"><strong>Group</strong>: B (S4)</td>
+      <td align="right"><strong>Group</strong>: B (S6)</td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><strong>Delivered To</strong>: Prof. Basheer Abdel Fatah</td>
+      <td colspan="2" align="center"><strong>Delivered To</strong>: DR. Cherry Ahmed</td>
     </tr>
   </table>
 </div>
@@ -77,7 +77,7 @@ public:
 ### Submission Notes
 
 - Your project should include two code files: `student.h` and `main.cpp`, along with the project file (extension `cbp`).
-- Copy the 3 files into a new folder named by your IDs, then compress it into a zip file for submission.
+- Copy the 3 files into a new folder named by your ID, then compress it into a zip file for submission.
 
 ### Grading Info
 

@@ -12,10 +12,10 @@
     </tr>
     <tr>
       <td align="left"><strong>Program</strong>: Software Engineering</td>
-      <td align="right"><strong>Group</strong>: B (S4)</td>
+      <td align="right"><strong>Group</strong>: B (S6)</td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><strong>Delivered To</strong>: Prof. Basheer Abdel Fatah</td>
+      <td colspan="2" align="center"><strong>Delivered To</strong>: DR. Cherry Ahmed</td>
     </tr>
   </table>
 </div>
@@ -122,8 +122,8 @@ Data Structures Course (Spring 2024)
    - `QueueSLL.h` for the `QueueSLL` class
    - `main.cpp` for the main function
    - Project file (`project.cbp`/`project.sln`)
-2. Name the folder with your lab group and IDs, e.g., `S5_22222222_33333333`.
-3. Zip the folder for submission (e.g., `S5_22222222_33333333.zip`).
+2. Name the folder with your lab group and ID, e.g., `S5_22222222`.
+3. Zip the folder for submission (e.g., `S5_22222222.zip`).
 
 ### Grading Info
 

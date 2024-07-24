@@ -131,14 +131,14 @@ In this assignment, you will implement Dijkstra’s shortest path algorithm on a
 3. For the sample graph in `graph.txt`, the output should be:
    ```
    Node    Cost    Previous
-   g       0       -
    a       9       g
+   b       32      e
+   c       45      d
+   d       34      b
    e       14      g
    f       15      g
-   b       24      a
-   d       26      b
-   h       43      b
-   c       37      d
+   g       0       g
+   h       50      d
    ```
 
 4. Note that you can add any member or stand-alone functions you might need.

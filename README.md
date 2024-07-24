@@ -26,7 +26,7 @@
 
 Cairo University  
 Faculty of Computers and Artificial Intelligence  
-Data Structures Course (Spring 2024) 
+Data Structures Course (Spring 2022) 
 
 ### Instructions
 

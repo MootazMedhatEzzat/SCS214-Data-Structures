@@ -4,7 +4,7 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td colspan="2" align="center"><strong>{ Assignment-1 }</strong></td>
+      <td colspan="2" align="center"><strong>{ Assignment-1-DS }</strong></td>
     </tr>
     <tr>
       <td align="left"><strong>Name</strong>: Mootaz Medhat Ezzat Abdelwahab</td>

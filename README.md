@@ -12,10 +12,10 @@
     </tr>
     <tr>
       <td align="left"><strong>Program</strong>: Software Engineering</td>
-      <td align="right"><strong>Group</strong>: B (S4)</td>
+      <td align="right"><strong>Group</strong>: B (S6)</td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><strong>Delivered To</strong>: Prof. Basheer Abdel Fatah</td>
+      <td colspan="2" align="center"><strong>Delivered To</strong>: DR. Cherry Ahmed</td>
     </tr>
   </table>
 </div>
@@ -34,7 +34,7 @@ Data Structures Course (Spring 2024)
 2. Submission will be on Blackboard.
 3. No late submissions are allowed.
 4. No submission through e-mails.
-5. You will write a C++ file with the name `StudentID.cpp`. No rar or zip files are allowed. No folders, just submit a single file. For example, if your ID is 20202020 and your partner's ID is 19191919, then your C++ file will be named `20202020_19191919.cpp`. The character separating the IDs is an underscore (_). Do not use any other characters like a space, dash, or bracket, etc.
+5. You will write a C++ file with the name `StudentID.cpp`. No rar or zip files are allowed. No folders, just submit a single file. For example, if your ID is 20202020, then your C++ file will be named `20202020.cpp`. The character separating the IDs is an underscore (_). Do not use any other characters like a space, dash, or bracket, etc.
 6. In case of cheating, you will receive a negative grade whether you give the code to someone, take the code from someone/internet, or even send it to someone for any reason.
 7. You have to write clean code and follow a good coding style, including choosing meaningful variable names.
 

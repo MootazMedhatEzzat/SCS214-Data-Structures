@@ -30,12 +30,11 @@ Data Structures Course (Spring 2024)
 
 ### Instructions
 
-1. Students will form teams of 2 students (from any group since lab groups are not assigned yet).
 2. The deadline for submission is Friday, Mar. 11th at 11:55 pm.
 3. Submission will be on Blackboard.
 4. No late submissions are allowed.
 5. No submission through e-mails.
-6. You will write a C++ file with the name `firstStudentID_SecondStudentID.cpp`. No rar or zip files are allowed. No folders, just submit a single file. For example, if your ID is 20202020 and your partner's ID is 19191919, then your C++ file will be named `20202020_19191919.cpp`. The character separating the IDs is an underscore (_). Do not use any other characters like a space, dash, or bracket, etc.
+6. You will write a C++ file with the name `StudentID.cpp`. No rar or zip files are allowed. No folders, just submit a single file. For example, if your ID is 20202020 and your partner's ID is 19191919, then your C++ file will be named `20202020_19191919.cpp`. The character separating the IDs is an underscore (_). Do not use any other characters like a space, dash, or bracket, etc.
 7. In case of cheating, you will receive a negative grade whether you give the code to someone, take the code from someone/internet, or even send it to someone for any reason.
 8. You have to write clean code and follow a good coding style, including choosing meaningful variable names.
 

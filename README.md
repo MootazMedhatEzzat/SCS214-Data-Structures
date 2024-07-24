@@ -12,7 +12,7 @@
     </tr>
     <tr>
       <td align="left"><strong>Program</strong>: Software Engineering</td>
-      <td align="right"><strong>Group</strong>: B (S4)</td>
+      <td align="right"><strong>Group</strong>: B (S6)</td>
     </tr>
     <tr>
       <td colspan="2" align="center"><strong>Delivered To</strong>: DR. Cherry Ahmed</td>
@@ -151,8 +151,8 @@ In this assignment, you will implement Dijkstra’s shortest path algorithm on a
    - Class `WeightedGraph` declaration and implementation will be in file `WeightedGraph.h`
    - Your main function will be in `main.cpp`
 3. Create a folder with 4 files; `MinHeap.h`, `WeightedGraph.h`, `main.cpp`, `project.cbp`/`project.sln` (do not include any other files)
-4. Name the folder by your lab group, id1, and id2. Example: `S5_22222222_33333333`
-5. Zip your folder (e.g., `S5_22222222_33333333.zip`)
+4. Name the folder by your lab group, id1, and id2. Example: `S5_22222222`
+5. Zip your folder (e.g., `S5_22222222.zip`)
 
 ### Grading Info
 

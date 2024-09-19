@@ -117,7 +117,7 @@ Data Structures Course (Spring 2022)
 4. Move Nth element to the front in a queue of strings.
 5. Reverse elements of a queue of doubles.
 
-### 🔑📤 Submission Notes and Instructions
+### 📤🔑 Important Remarks & Submission Notes
 
 1. Create separate files for each class:
    - `SLL.h` for the `SLL` class

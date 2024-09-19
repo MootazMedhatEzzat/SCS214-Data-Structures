@@ -77,7 +77,7 @@ public:
     - Save the results to 3 text files, one for each sort.
     - Display a menu for user interaction, allowing the display of sorted results and performing searches.
 
-### Submission Notes
+### 📤 Submission Instructions
 
 - Your project should include two code files: `student.h` and `main.cpp`, along with the project file (extension `cbp`).
 - Copy the 3 files into a new folder named by your ID, then compress it into a zip file for submission.

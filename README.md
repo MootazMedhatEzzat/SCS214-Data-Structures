@@ -28,21 +28,24 @@ Cairo University
 Faculty of Computers and Artificial Intelligence  
 Data Structures Course (Spring 2022) 
 
-### Instructions
+### 📋 Instructions
 
-1. The deadline for submission is Monday, May 30th at 11:55 pm.
-2. Submission will be on Blackboard.
-3. No late submissions are allowed.
-4. No submission through e-mails.
-5. Please follow the Submission Notes found below.
-6. In case of cheating, you will receive a negative grade whether you give the code to someone, take the code from someone/internet, or even send it to someone for any reason.
-7. You have to write clean code and follow a good coding style, including choosing meaningful variable names.
+1. **Deadline**: The submission deadline is **Monday, May 30th at 11:55 pm**.
+2. **Submission**: Submit your assignment via **Blackboard**.
+3. **Late Submissions**: 🚫 No late submissions will be accepted.
+4. **Submission Method**: 🚫 Do not submit via email.
+5. **Submission Notes**: Follow the **Submission Notes** listed below.
+6. **Cheating Policy**: 🚫 Any form of cheating will result in a **negative grade**. This applies whether you:
+   - Give your code to someone else.
+   - Take code from someone or the internet.
+   - Send your code to someone for any reason.
+7. **Code Quality**: Ensure you write **clean code** and follow a good coding style. Use meaningful variable names and maintain code readability.
 
 ### Objective
 
 In this assignment, you will implement Dijkstra’s shortest path algorithm on an undirected weighted graph. Use a min-heap to store the node labels and their current costs.
 
-### Tasks
+### 🛠️ Tasks
 
 1. Create a struct to store the node label and its cost:
    ```cpp
@@ -143,7 +146,7 @@ In this assignment, you will implement Dijkstra’s shortest path algorithm on a
 
 4. Note that you can add any member or stand-alone functions you might need.
 
-### Submission Notes
+### 📤🔑 Important Remarks & Submission Notes
 
 1. Submission will be in the form of a zip file.
 2. Separate your implementation such that:
@@ -154,7 +157,7 @@ In this assignment, you will implement Dijkstra’s shortest path algorithm on a
 4. Name the folder by your lab group, id1, and id2. Example: `S5_22222222`
 5. Zip your folder (e.g., `S5_22222222.zip`)
 
-### Grading Info
+### 🏆 Grading Criteria (Total: 90 points)
 
 - **MinHeap::extractMin**: 5 points
 - **MinHeap::parent**: 2 points
@@ -170,4 +173,12 @@ In this assignment, you will implement Dijkstra’s shortest path algorithm on a
 - **WeightedGraph::loadGraphFromFile**: 10 points
 - **WeightedGraph::dijkstra**: 21 points
 
-**Total**: 90 points
+---
+
+## 💬 Let's Connect
+Feel free to reach out to me if you'd like to collaborate on a project or discuss technology! As a Software Engineer, I'm always open to tackling new challenges, sharing knowledge, and growing through collaborative opportunities.
+
+**Mootaz Medhat Ezzat Abdelwahab**  
+🎓 Software Engineering Graduate | Faculty of Computers and Artificial Intelligence, Cairo University  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mootaz-medhat-ezzat-abdelwahab-377a60244)

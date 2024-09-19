@@ -43,16 +43,12 @@ Data Structures Course (Spring 2022)
    - Send your code to someone for any reason.
 7. **Code Quality**: Ensure you write **clean code** and follow a good coding style. Use meaningful variable names and maintain code readability.
 
----
-
 ### 🛠️ Task
 
 You are required to implement a class called `IntegerSet` for managing sets of integers within the range of 0 to 100. The set should be represented internally as an array of ones and zeros:
 - **Array element `a[i]`**:
   - **1**: Indicates integer `i` is part of the set.
   - **0**: Indicates integer `i` is **not** part of the set.
-
----
 
 ### Class Specifications
 
@@ -72,8 +68,6 @@ You are required to implement a class called `IntegerSet` for managing sets of i
 - **Operators**:
   - `-` (Set Difference): Allows set difference operations. For example, `s1 = s2 - s3` results in `s1` containing elements in `s2` that are **not** in `s3`.
   - `!` (Set Complement): Allows complement operations. For example, `s2 = !s1` results in `s2` containing all elements that are **not** in `s1`.
-
----
 
 ### 📝 Testing
 

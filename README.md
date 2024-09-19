@@ -114,7 +114,7 @@ Data Structures Course (Spring 2022)
 4. Move Nth element to the front in a queue of strings.
 5. Reverse elements of a queue of doubles.
 
-### Submission Notes
+### 🔑📤 Submission Notes and Instructions
 
 1. Create separate files for each class:
    - `SLL.h` for the `SLL` class
@@ -125,7 +125,7 @@ Data Structures Course (Spring 2022)
 2. Name the folder with your lab group and ID, e.g., `S5_22222222`.
 3. Zip the folder for submission (e.g., `S5_22222222.zip`).
 
-### Grading Info
+### 🏆 Grading Criteria (Total: 150 points)
 
 - **Node Class**: 10 points
 - **SLL Class**: 25 points
@@ -138,4 +138,12 @@ Data Structures Course (Spring 2022)
 - **moveNthElem**: 10 points
 - **reverseQueue**: 10 points
 
-**Total**: 150 points
+---
+
+## 💬 Let's Connect
+Feel free to reach out to me if you'd like to collaborate on a project or discuss technology! As a Software Engineer, I'm always open to tackling new challenges, sharing knowledge, and growing through collaborative opportunities.
+
+**Mootaz Medhat Ezzat Abdelwahab**  
+🎓 Software Engineering Graduate | Faculty of Computers and Artificial Intelligence, Cairo University  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mootaz-medhat-ezzat-abdelwahab-377a60244)

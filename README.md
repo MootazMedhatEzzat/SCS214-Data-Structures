@@ -28,30 +28,63 @@ Cairo University
 Faculty of Computers and Artificial Intelligence  
 Data Structures Course (Spring 2022) 
 
-### Instructions
+### 📋 Instructions
 
-1. The deadline for submission is Friday, Mar. 11th at 11:55 pm.
-2. Submission will be on Blackboard.
-3. No late submissions are allowed.
-4. No submission through e-mails.
-5. You will write a C++ file with the name `StudentID.cpp`. No rar or zip files are allowed. No folders, just submit a single file. For example, if your ID is 20202020, then your C++ file will be named `20202020.cpp`. The character separating the IDs is an underscore (_). Do not use any other characters like a space, dash, or bracket, etc.
-6. In case of cheating, you will receive a negative grade whether you give the code to someone, take the code from someone/internet, or even send it to someone for any reason.
-7. You have to write clean code and follow a good coding style, including choosing meaningful variable names.
+1. **Deadline**: The submission deadline is **Friday, Mar. 11th at 11:55 PM**.
+2. **Submission**: Submit your assignment via **Blackboard**.
+3. **Late Submissions**: 🚫 No late submissions will be accepted.
+4. **Submission Method**: 🚫 Do not submit via email.
+5. **File Format**: You must submit a single **C++ file** named `StudentID.cpp`. No compressed files (.rar, .zip) or folders are allowed. The file should strictly follow this format:
+   - Example: If your student ID is **20202020**, your file should be named `20202020.cpp`.
+   - The character separating the IDs is an **underscore (_)**. Do not use any other characters (like spaces, dashes, brackets, etc.).
+6. **Cheating Policy**: 🚫 Any form of cheating will result in a **negative grade**. This applies whether you:
+   - Give your code to someone else.
+   - Take code from someone or the internet.
+   - Send your code to someone for any reason.
+7. **Code Quality**: Ensure you write **clean code** and follow a good coding style. Use meaningful variable names and maintain code readability.
 
-### Task
+---
 
-Create a class `IntegerSet` for which each object can hold integers in the range 0 through 100. A set is represented internally as an array of ones and zeros. Array element `a[i]` is 1 if integer `i` is in the set. Array element `a[j]` is 0 if integer `j` is not in the set.
+### 🛠️ Task
 
-- The default constructor initializes a set to the so-called “empty set,” i.e., a set whose array representation contains all zeros.
-- Provide member functions for the common set operations. For example:
-  - `unionOfSets` member function: Creates a third set that is the set-theoretic union of two existing sets.
-  - `intersectionOfSets` member function: Creates a third set that is the set-theoretic intersection of two existing sets.
-  - `insertElement` member function: Inserts a new integer `k` into a set (by setting `a[k]` to 1).
-  - `deleteElement` member function: Deletes integer `m` (by setting `a[m]` to 0).
-  - `printSet` member function: Prints a set as a list of numbers separated by spaces. Print only those elements that are present in the set. Print `---` for an empty set.
-  - `isEqualTo` member function: Determines whether two sets are equal.
-  - Additional constructor: Receives an array of integers and the size of that array and uses the array to initialize a set object.
-  - Provide set difference using the operator `-`. For example, `s1 = s2 - s3` will result in `s1` having the elements in `s2` that are not in `s3`.
-  - Provide set complement using the operator `!`. For example, `s2 = !s1` will result in `s2` having all of the elements that are not in `s1`.
+You are required to implement a class called `IntegerSet` for managing sets of integers within the range of 0 to 100. The set should be represented internally as an array of ones and zeros:
+- **Array element `a[i]`**:
+  - **1**: Indicates integer `i` is part of the set.
+  - **0**: Indicates integer `i` is **not** part of the set.
 
-- Now write a driver program (`main`) to test your `IntegerSet` class. Instantiate several `IntegerSet` objects and test that all your member functions work properly.
+---
+
+### Class Specifications
+
+- **Default Constructor**: Initializes the set to the “empty set” (i.e., an array containing all zeros).
+  
+- **Member Functions**:
+  - `unionOfSets`: Creates a third set that represents the **union** of two existing sets.
+  - `intersectionOfSets`: Creates a third set that represents the **intersection** of two existing sets.
+  - `insertElement`: Adds a new integer `k` to the set (sets `a[k]` to 1).
+  - `deleteElement`: Removes an integer `m` from the set (sets `a[m]` to 0).
+  - `printSet`: Prints the set as a list of numbers separated by spaces. If the set is empty, print `---`.
+  - `isEqualTo`: Determines if two sets are equal.
+
+- **Additional Constructor**:
+  - Receives an **array of integers** and the size of the array to initialize the set object.
+
+- **Operators**:
+  - `-` (Set Difference): Allows set difference operations. For example, `s1 = s2 - s3` results in `s1` containing elements in `s2` that are **not** in `s3`.
+  - `!` (Set Complement): Allows complement operations. For example, `s2 = !s1` results in `s2` containing all elements that are **not** in `s1`.
+
+---
+
+### 📝 Testing
+
+In your `main` function, write a **driver program** to test the `IntegerSet` class. Create multiple instances of `IntegerSet` and ensure all member functions are tested and working correctly.
+
+---
+
+## 💬 Let's Connect
+Feel free to reach out to me if you'd like to collaborate on a project or discuss technology! As a Software Engineer, I'm always open to tackling new challenges, sharing knowledge, and growing through collaborative opportunities.
+
+**Mootaz Medhat Ezzat Abdelwahab**  
+🎓 Software Engineering Graduate | Faculty of Computers and Artificial Intelligence, Cairo University  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mootaz-medhat-ezzat-abdelwahab-377a60244)

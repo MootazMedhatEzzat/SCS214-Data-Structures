@@ -73,6 +73,35 @@ You are required to implement a class called `IntegerSet` for managing sets of i
 
 In your `main` function, write a **driver program** to test the `IntegerSet` class. Create multiple instances of `IntegerSet` and ensure all member functions are tested and working correctly.
 
+### 🛠️ Programming Language and Development Tools Used
+
+<table align="center" border="1" cellpadding="10">
+  <thead>
+    <tr>
+      <th>Programming Language</th>
+      <th>Development Tool</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/1db36f07-698f-400f-bdd7-b3ad8f936f5d" title="Code::Blocks" alt="Code::Blocks" width="40" height="40"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        C++
+      </td>
+      <td align="center">
+        Code::Blocks IDE
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ---
 
 ## 💬 Let's Connect

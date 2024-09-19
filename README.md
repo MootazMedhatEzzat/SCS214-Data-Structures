@@ -28,17 +28,20 @@ Cairo University
 Faculty of Computers and Artificial Intelligence  
 Data Structures Course (Spring 2022) 
 
-### Instructions
+### 📋 Instructions
 
-1. The deadline for submission is Sunday, April 3rd at 11:55 pm.
-2. Submission will be on Blackboard.
-3. No late submissions are allowed.
-4. No submission through e-mails.
-5. Please follow the Submission Notes found below.
-6. In case of cheating, you will receive a negative grade whether you give the code to someone, take the code from someone/internet, or even send it to someone for any reason.
-7. You have to write clean code and follow a good coding style, including choosing meaningful variable names.
+1. **Deadline**: The submission deadline is **Sunday, April 3rd at 11:55 PM**.
+2. **Submission**: Submit your assignment via **Blackboard**.
+3. **Late Submissions**: 🚫 No late submissions will be accepted.
+4. **Submission Method**: 🚫 Do not submit via email.
+5. **Submission Notes**: Follow the **Submission Notes** listed below.
+6. **Cheating Policy**: 🚫 Any form of cheating will result in a **negative grade**. This applies whether you:
+   - Give your code to someone else.
+   - Take code from someone or the internet.
+   - Send your code to someone for any reason.
+7. **Code Quality**: Ensure you write **clean code** and follow a good coding style. Use meaningful variable names and maintain code readability.
 
-### Task
+### 🛠️ Task
 
 Assuming you have a class `Student`:
 
@@ -79,7 +82,7 @@ public:
 - Your project should include two code files: `student.h` and `main.cpp`, along with the project file (extension `cbp`).
 - Copy the 3 files into a new folder named by your ID, then compress it into a zip file for submission.
 
-### Grading Info
+### 🏆 Grading Criteria (Total: 130 points)
 
 - **Student Class**: 5 points
 - **Quadratic Sorting Algorithm**: 20 points
@@ -93,4 +96,13 @@ public:
 - **Separate Header File**: 5 points
 - **Correct Naming/Submission**: 15 points
 
-Total: 130 points
+---
+
+## 💬 Let's Connect
+Feel free to reach out to me if you'd like to collaborate on a project or discuss technology! As a Software Engineer, I'm always open to tackling new challenges, sharing knowledge, and growing through collaborative opportunities.
+
+**Mootaz Medhat Ezzat Abdelwahab**  
+🎓 Software Engineering Graduate | Faculty of Computers and Artificial Intelligence, Cairo University  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mootaz-medhat-ezzat-abdelwahab-377a60244)
+

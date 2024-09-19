@@ -141,6 +141,8 @@ Data Structures Course (Spring 2022)
 - **moveNthElem**: 10 points
 - **reverseQueue**: 10 points
 
+---
+
 ### 🛠️ Programming Language and Development Tools Used
 
 <table align="center" border="1" cellpadding="10">

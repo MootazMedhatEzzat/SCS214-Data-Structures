@@ -173,6 +173,8 @@ In this assignment, you will implement Dijkstra’s shortest path algorithm on a
 - **WeightedGraph::loadGraphFromFile**: 10 points
 - **WeightedGraph::dijkstra**: 21 points
 
+---
+
 ### 🛠️ Programming Language and Development Tools Used
 
 <table align="center" border="1" cellpadding="10">

@@ -28,17 +28,20 @@ Cairo University
 Faculty of Computers and Artificial Intelligence  
 Data Structures Course (Spring 2022) 
 
-### Instructions
+### 📋 Instructions
 
-1. The deadline for submission is Sunday, May 8th at 11:55 pm.
-2. Submission will be on Blackboard.
-3. No late submissions are allowed.
-4. No submission through e-mails.
-5. Please follow the Submission Notes found below.
-6. In case of cheating, you will receive a negative grade whether you give the code to someone, take the code from someone/internet, or even send it to someone for any reason.
-7. You have to write clean code and follow a good coding style, including choosing meaningful variable names.
+1. **Deadline**: The submission deadline is **Sunday, May 8th at 11:55 pm**.
+2. **Submission**: Submit your assignment via **Blackboard**.
+3. **Late Submissions**: 🚫 No late submissions will be accepted.
+4. **Submission Method**: 🚫 Do not submit via email.
+5. **Submission Notes**: Follow the **Submission Notes** listed below.
+6. **Cheating Policy**: 🚫 Any form of cheating will result in a **negative grade**. This applies whether you:
+   - Give your code to someone else.
+   - Take code from someone or the internet.
+   - Send your code to someone for any reason.
+7. **Code Quality**: Ensure you write **clean code** and follow a good coding style. Use meaningful variable names and maintain code readability.
 
-### Task
+### 🛠️ Task
 
 1. Implement a class template `Node` with the following structure:
    ```cpp

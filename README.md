@@ -96,6 +96,8 @@ public:
 - **Separate Header File**: 5 points
 - **Correct Naming/Submission**: 15 points
 
+---
+
 ### 🛠️ Programming Language and Development Tools Used
 
 <table align="center" border="1" cellpadding="10">
